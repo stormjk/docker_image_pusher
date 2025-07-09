@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 mysql:5.7
 --platform=linux/arm64 nacos/nacos-server:v2.4.3
+--platform=linux/arm64 openjdk:11-ea-9-jdk
